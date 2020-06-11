@@ -1,0 +1,20 @@
+{
+    "python": "python",
+    "output": {
+        "status": "status",
+        "name": "name",
+        "url": "url",
+        "urlMain": "urlMain",
+        "rank": "rank"
+    },
+    "add": {
+        "triple j Unearthed": {
+            "errorType": "status_code",
+            "rank": 179033,
+            "url": "https://www.triplejunearthed.com/artist/{}",
+            "urlMain": "https://www.triplejunearthed.com/",
+            "username_claimed": "oliver-kovacs",
+            "username_unclaimed": "noonewouldeverusethis7"
+        }
+    }
+}
