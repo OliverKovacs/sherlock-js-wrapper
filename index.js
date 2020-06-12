@@ -1,6 +1,6 @@
 
 // Oliver Kovacs 2020
-// sherlock-js - index.js
+// sherlock-js-wrapper - index.js
 // MIT
 
 const fs = require("fs");
