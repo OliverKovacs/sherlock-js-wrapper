@@ -14,7 +14,7 @@ Also note that I am not affiliated with the creator of Sherlock in any form.
 
 Download repository using Git:
 ```bash
-$ git clone https://github.com/OliverKovacs/sherlock-js-wrapper
+$ git clone https://github.com/OliverKovacs/sherlock-js-wrapper sherlock
 ```
 
 ## Usage
