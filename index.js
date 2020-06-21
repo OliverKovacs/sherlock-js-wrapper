@@ -8,10 +8,11 @@ const cp = require("child_process");
 
 module.exports = new class Sherlock {
     constructor() {
+        this.config = require("./config.json");
+        
         if (!fs.existsSync(`${__dirname}/sherlock/`)) this.install();
 
         this.data = require("./sherlock/sherlock/resources/data.json");
-        this.config = require("./config.json");
         this.reload();
     }
 
